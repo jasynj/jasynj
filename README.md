@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cursive+Code&pause=100&lines=Heyy!+I'm+Jason+👋)]
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cursive+Code&pause=100&lines=Heyy!+I'm+Jason+👋)
 
 I am an enthusiastic learner with strong mathematical aptitude and proficiency in computer programming, seeking opportunities to develop skills, build network, and apply talent to substantial projects.
 
