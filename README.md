@@ -23,7 +23,7 @@ Outside of tech, I enjoy playing sports, chess, reading novels, and watching ani
 ## 📊 GitHub Stats  
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasynj&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasynj&layout=compact&theme=radical)
+![Top Languages](https://camo.githubusercontent.com/fa4f8b1eb130fe09b97aaba37efdf41c550a50888813280d6fdc8f3dbe204129/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6173796e6a266c61796f75743d636f6d70616374267468656d653d7261646963616c)
 
 ---
 
