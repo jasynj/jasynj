@@ -1,31 +1,55 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cursive+Code&pause=100&lines=Heyy!+I'm+Jason+👋)
 
 
-I’m passionate about using technology to improve lives; bringing scalable, impactful solutions to those who need them most. I’m also deepening my skills in data structures and algorithms (DSA), systems design, and exploring the quantitative tech space.
+```javascript
+const aboutMe = {
+    name: {
+        first: "Jason",
+        last: "Jason", 
+        pronouns: 'he/him/his',
+    },
+    experience: {
+        incoming: 'Software Engineering Intern at Meta (SWE)',
+        prev: 'Software Testing Intern at Phillips Consulting Limited',
+        prev: 'Software Engineering Intern at Meta (Meta University)',
+    },
+    workingOn: 'Devpost Google Cloud Hackathon',
+    learning: 'How to build a large-scale, high-throughput platforms',
+    socials: {
+        linkedin: 'https://www.linkedin.com/in/jasoncjason',
+        email: 'jasoncj.devh@gmail.com',
+    }
+}
+```
 
-What excites me most about tech is its power to scale. How a single innovation can touch millions of lives.
-Outside of tech, I enjoy playing sports, chess, reading novels, and watching anime. 
+## GitHub Stats:
 
-## 🚀 About Me
-- 👋 @jasynj
-- 👀 I’m interested in Software Engineering, Front-end Web Development, Cloud Computing and Cybersecurity
-- 🌱 I’m currently sharpening my DSA skills
-- 💞️ I’m looking forward to completing impactful projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jasoncjason/)
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=jasynj&hide=stars&count_private=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="margin-right: 10px;">
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-339943?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 
-## 📊 GitHub Stats  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasynj&show_icons=true&theme=radical)  
-![Top Languages](https://camo.githubusercontent.com/fa4f8b1eb130fe09b97aaba37efdf41c550a50888813280d6fdc8f3dbe204129/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6173796e6a266c61796f75743d636f6d70616374267468656d653d7261646963616c)
-
----
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasoncjason/)
