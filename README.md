@@ -17,7 +17,7 @@ const aboutMe = {
     learning: 'How to build a large-scale, high-throughput platforms',
     socials: {
         linkedin: 'https://www.linkedin.com/in/jasoncjason',
-        email: 'jasoncj.devh@gmail.com',
+        email: 'jasoncj.dev@gmail.com',
     }
 }
 ```
