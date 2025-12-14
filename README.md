@@ -4,7 +4,7 @@
 ```javascript
 const aboutMe = {
     name: {
-        first: "Jason",
+        first: "Chimdinma",
         last: "Jason", 
         pronouns: 'he/him/his',
     },
