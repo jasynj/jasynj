@@ -14,7 +14,7 @@ const aboutMe = {
         prev: 'Software Engineering Intern at Meta (Meta University)',
     },
     workingOn: 'Devpost Google Cloud Hackathon',
-    learning: 'How to build a large-scale, high-throughput platforms',
+    learning: 'How to build large-scale, high-throughput platforms',
     socials: {
         linkedin: 'https://www.linkedin.com/in/jasoncjason',
         email: 'jasoncj.dev@gmail.com',
