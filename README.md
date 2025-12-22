@@ -10,8 +10,8 @@ const aboutMe = {
     },
     experience: {
         incoming: 'Software Engineering Intern at Meta (SWE)',
-        prev: 'Software Testing Intern at Phillips Consulting Limited',
         prev: 'Software Engineering Intern at Meta (Meta University)',
+        prev: 'Software Testing Intern at Phillips Consulting Limited',
     },
     workingOn: 'Devpost Google Cloud Hackathon',
     learning: 'How to build large-scale, high-throughput platforms',
@@ -26,7 +26,9 @@ const aboutMe = {
 
 <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=jasynj&hide=stars&count_private=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="margin-right: 10px;">
-
+    
+![](https://nirzak-streak-stats.vercel.app/?user=jasynj&theme=dark&hide_border=false)
+    
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
