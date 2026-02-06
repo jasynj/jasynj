@@ -25,8 +25,6 @@ const aboutMe = {
 ## GitHub Stats:
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jasynj&hide=stars&count_private=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="margin-right: 10px;">
-    
 ![](https://nirzak-streak-stats.vercel.app/?user=jasynj&theme=dark&hide_border=false)
     
 ## Technologies & Tools
