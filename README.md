@@ -24,7 +24,6 @@ const aboutMe = {
 
 ## GitHub Stats:
 
-<div style="display: flex; justify-content: center;">
 ![](https://nirzak-streak-stats.vercel.app/?user=jasynj&theme=dark&hide_border=false)
     
 ## Technologies & Tools
