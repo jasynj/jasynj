@@ -13,7 +13,7 @@ const aboutMe = {
         prev: 'Software Engineering Intern at Meta (Meta University)',
         prev: 'Software Testing Intern at Phillips Consulting Limited',
     },
-    workingOn: 'Code2040 Tech for Resistance Hackathon',
+    workingOn: 'Craig Events & Entertainment Official Website',
     learning: 'How to build large-scale, high-throughput platforms',
     socials: {
         linkedin: 'https://www.linkedin.com/in/jasoncjason',
