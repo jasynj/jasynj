@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Jason 👋</h1>
 <p align="center">
-  <em>Full-stack SWE | Incoming @ Meta (WhatsApp Business, Summer 2026) | CS + CIS @ Grambling State</em>
+  <em>Full-stack SWE | Incoming @ Meta (Messenger Data Use, Summer 2026) | CS + CIS @ Grambling State</em>
 </p>
 
 <p align="center">
